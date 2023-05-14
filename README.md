@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Antonio, im a apassionate to Data Engineering, i like to build, test and study models of web scrapping, text processing, machine learning, and others. 
+
 <!--
 **AntoMB3/AntoMB3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
