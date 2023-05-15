@@ -2,6 +2,8 @@
 
 My name is Antonio, im a apassionate to Data Engineering, i like to build, test and study models of web scrapping, text processing, machine learning, and others. 
 
+My favorite hobbies are sports and videogames and i like all about the competitive scene in both areas. Also i love music, i can't live without it.
+
 [Prueba de link](https://www.pathmatch.com/blog/how-to-get-an-internship-at-spotify)
 
 <!--
