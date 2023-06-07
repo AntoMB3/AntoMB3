@@ -7,8 +7,8 @@ My favorite hobbies are sports and videogames and i like all about the competiti
 ### My last projects
 
 
-[Analisis de sentimientos de canciones](https://github.com/AntoMB3/AnalisisCancionesSentimiento)
-[League of Legends Scoutting Data](https://github.com/AntoMB3/LOLDataAnalisis)
+- [Analisis de sentimientos de canciones](https://github.com/AntoMB3/AnalisisCancionesSentimiento)
+- [League of Legends Scoutting Data](https://github.com/AntoMB3/LOLDataAnalisis)
 
 ### My first project 🤓
 [NBA Manager C++](https://github.com/AntoMB3/NBA_programa_de_registro)
