@@ -15,7 +15,7 @@ My favorite hobbies are sports and videogames and i like all about the competiti
 
 ## About ME
 - 🔭 I’m currently studying my last year of collerge in AI at UAA, Ags. MX
-- 🌱 I’m currently machine learning and data processing in R and python
+- 🌱 I’m currently learning machine learning and data processing in R and python
 
 <!--
 **AntoMB3/AntoMB3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
