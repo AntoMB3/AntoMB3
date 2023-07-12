@@ -8,6 +8,7 @@ My favorite hobbies are sports and videogames and i like all about the competiti
 
 
 - [Analisis de sentimientos de canciones](https://github.com/AntoMB3/AnalisisCancionesSentimiento)
+- [World Cup Winner Predictor](https://github.com/AntoMB3/FIFA-WorldCup-Analyst)
 - [League of Legends Scoutting Data](https://github.com/AntoMB3/LOLDataAnalisis)
 
 ### My first project 🤓
